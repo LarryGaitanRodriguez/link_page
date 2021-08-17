@@ -1,0 +1,37 @@
+body{
+    background-image: linear-gradient(to right,#90afc5, #336B87, #2A3132);
+
+}
+.dev-block-one{
+    background-color: lightblue;
+}
+
+.dev-block-two{
+    background-color: red;
+}
+
+.title{
+    padding-top: 2rem;
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
+.headshot{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 15em;
+    width: 10rem;
+    height: auto;
+}
+
+.row-pad{
+    padding-top:1rem;
+}
+
+.footer{
+  text-align: center;
+  color: white;
+  text-align: center;
+  font-size: 0.75rem;
+}
